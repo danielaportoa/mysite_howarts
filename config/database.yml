@@ -26,7 +26,7 @@ default: &default
   username: mysite
   password: FwNrgpQzZ4Dk787St55FLB1R6zUGlnqW
   host: dpg-cqtdjcqj1k6c738jegkg-a
-  port: 5432 # El puerto por defecto para PostgreSQL
+  port: 54320 # El puerto por defecto para PostgreSQL
   database: mysite_q3m7
 
 development:
